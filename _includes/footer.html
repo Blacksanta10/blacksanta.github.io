@@ -1,7 +1,25 @@
 <footer class="site-footer">
   <div class="wrapper">
-    <p>
-      © {{ site.time | date: "%Y" }} {{ site.author }}
-    </p>
+    <div class="footer-content">
+      <p class="footer-title">
+        <strong>{{ site.author }}</strong>
+      </p>
+
+      <p class="footer-description">
+        Computer Science student • Software Developer • Technical Blog
+      </p>
+
+      <nav class="footer-links">
+        <a href="https://github.com/blacksanta10">GitHub</a>
+        <span>•</span>
+        <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+        <span>•</span>
+        <a href="/feed.xml">RSS</a>
+      </nav>
+
+      <p class="footer-copyright">
+        © {{ site.time | date: "%Y" }} {{ site.author }}
+      </p>
+    </div>
   </div>
 </footer>
