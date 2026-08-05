@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+Hello! Welcome to my blog. 
 
-Maybe say a some things about yourself.
+My name is Demitrius and this blog helps me keep and share progress on the various projects.  
 
-Or maybe what you plan to blog about.
+I am currently a Senior studying Computer Science. I always am curious about different technologies and want a place to share. 
+
+Fun fact: I also know some Japanese too. I studied abroad in Tokyo for 3 months in 2024! 
